@@ -7,7 +7,9 @@ Screencasts of this project are available at
 http://youtu.be/lTB3kiltIuw
 http://youtu.be/L17bVZMxbw0
 
-
+1.  Bird
+1.  McHale
+1.  Parish
 
 DISCUSSION
 This is a good use of object oriented design.  It provides for easier maintenance and makes the components reusable.  
