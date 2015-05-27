@@ -1,7 +1,7 @@
 # Process Class
 
 > ## This class ecapsulates the resources created when spawning a Unix/Linux process with the fork() system call.  It uses the RAII idiom to make usage easier by freeing any 
-resources upone object destruction.
+> resources upone object destruction.
 
 Screencasts of this project are available at
 http://youtu.be/lTB3kiltIuw
